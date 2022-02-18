@@ -10,5 +10,5 @@ UPDATE users SET name='Luis', email='lrodriguez@4geek.co'phone='+5695555-55-99';
 
 ROLLBACK
 
-COMMENT
+COMMENT;
 
